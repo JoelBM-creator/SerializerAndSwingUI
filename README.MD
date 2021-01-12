@@ -20,6 +20,7 @@ Attributes are stored for each employee and the constructor, getter, and setter 
 <br />
 The Employee class is a serialize, except for the attribute that holds the key.
 <br /><br />
+
 ## Interfaz Grafica // UI
 Programa que muestra una ventana con los siguientes elementos:
 <br />
@@ -45,6 +46,7 @@ Two radio buttons (RadioButton) to select gender.
 <br />
 A group of boxes (CheckBox) that allows you to select hobbies.
 <br /> <br />
+
 ## Iniciar sesión grafica // Login UI 
 Programa que simula un login de una aplicación. 
 <br />
