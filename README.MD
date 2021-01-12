@@ -2,7 +2,7 @@ This project: [https://github.com/JoelBM-creator/SerializerAndSwingUI](https://g
 <br />
 <br />
 ## Summary
-Serialización // Serializer
+## Serialización // Serializer
 <br />
 Es un programa que nos permita guardar en un archivo un ArrayList con los datos de los empleados de una empresa. 
 <br />
@@ -19,8 +19,8 @@ Each employee has the following information: a name, an age, a salary and a pass
 Attributes are stored for each employee and the constructor, getter, and setter methods.
 <br />
 The Employee class is a serialize, except for the attribute that holds the key.
-<br />
-Interfaz Grafica // UI
+<br /><br />
+## Interfaz Grafica // UI
 Programa que muestra una ventana con los siguientes elementos:
 <br />
 Una caja de texto para introducir el nombre.
@@ -44,8 +44,8 @@ A drop-down list (ComboBox) that allows you to select an age range: 10-15, 15-20
 Two radio buttons (RadioButton) to select gender.
 <br />
 A group of boxes (CheckBox) that allows you to select hobbies.
-<br />
-Iniciar sesión grafica // Login UI 
+<br /> <br />
+## Iniciar sesión grafica // Login UI 
 Programa que simula un login de una aplicación. 
 <br />
 Contiene dos ventanas:
